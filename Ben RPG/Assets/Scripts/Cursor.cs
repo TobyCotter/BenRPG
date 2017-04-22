@@ -13,6 +13,6 @@ public class Cursor : MonoBehaviour {
 	
 
 	void Update () {
-		Debug.Log("Layer hit = " + cameraRaycaster.layerHit);
+		//Debug.Log("Layer hit = " + cameraRaycaster.layerHit);
 	}//End Update
 }
