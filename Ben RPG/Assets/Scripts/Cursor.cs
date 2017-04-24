@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class Cursor : MonoBehaviour {
 	//Variables
-	CameraRaycaster cameraRaycaster;
+	//CameraRaycaster cameraRaycaster;
 
 
 	void Start () {
-		cameraRaycaster = GetComponent<CameraRaycaster>();
+		//cameraRaycaster = GetComponent<CameraRaycaster>();
 	}//End Start
 	
 
